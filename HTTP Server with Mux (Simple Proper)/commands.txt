@@ -1,0 +1,9 @@
+NOTE: The improvements was from following the overview section of the net/http section of the go standard library documentation.
+
+Run HTTP server:
+go run .
+
+Call the server endpoint (:8080) to see if we get a response from the server:
+curl http://localhost:8080
+curl http://localhost:8080/users
+curl http://localhost:8080/randomendpoint
