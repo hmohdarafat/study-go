@@ -1,3 +1,5 @@
+NOTE: The improvements was from following the overview section of the net/http section of the go standard library documentation.
+
 Run HTTP server:
 go run .
 
